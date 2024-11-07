@@ -1,0 +1,1 @@
+Use at your own risk! I did all of this manually, so it is prone to human error. I was however very careful only to remove/merge conditions I deemed redundant or useless. I kept many of the unused states and labeled them as such, but you're free to delete them if you'd like.
