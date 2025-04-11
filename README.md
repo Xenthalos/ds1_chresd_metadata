@@ -11,6 +11,7 @@ Use at your own risk! I did all of this manually, so it is prone to human error.
 ****KNOWN BUGS IN OLDER VERSION****:
 - Drinking estus puts you into an infinite loop lol oops (linked some conditions by accident)
 - R2 As don't go to R2 Bs
+
 ^ These bugs shouldn't be an issue with the latest one I uploaded. Read that commit's comments for more info. 
 
 # Preview:
